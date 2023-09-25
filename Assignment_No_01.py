@@ -48,7 +48,6 @@ for token in about_doc:
 
 ########            Stop Word
 
-
 spacy_stopwords = spacy.lang.en.stop_words.STOP_WORDS
 len(spacy_stopwords)
 
